@@ -15,17 +15,11 @@ img{
 
 .carousel-item{
     display: block;
-    margin-right: 0;
+    margin: 0;
     flex: 0 0 calc(100%/3);
 }
 
 
 .carousel-inner{
     padding: 1em;
-}
-
-.card{
-    margin: 0 .5em;
-    width: 30%;
-    height: 30%;
 }
